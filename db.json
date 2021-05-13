@@ -1,0 +1,182 @@
+{
+  "products": [
+    {
+      "id": 13,
+      "category": "Cars",
+      "name": "Aventador SVJ",
+      "description": " Lamborghini created the Aventador SVJ to embrace challenges head-on, combining cutting-edge technology with extraordinary design, while always refusing to compromise. In a future driven by technology, it’s easy to lose the genuine thrill of driving. But in the future shaped by Lamborghini, this won’t be left behind, because there will always be a driver behind the wheel. ",
+      "price": 230000,
+      "color": "Black Cherry",
+      "madeIn": "Italy",
+      "img1": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/aventador/svj/2021/03_19/aventador_svj_overview.jpg",
+      "video": ""
+    },
+    {
+      "id": 14,
+      "category": "Cars",
+      "name": "Huracan STO",
+      "description": "A super-sports car created with a singular purpose, the Huracán STO delivers all the feel and technology of a genuine race car in a road-legal model.Lamborghini’s years-long motorsport know-how, intensified by a winning heritage, is concentrated in the new Huracán STO. Its extreme aerodynamics, track-honed handling dynamics, lightweight contents and the highest-performing V10 engine to date come together, ready to trigger all the emotions of the racetrack in your everyday life. ",
+      "price": 241000,
+      "color": "Blue",
+      "madeIn": "Italy",
+      "img1": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/huracan/sto/2021_04/huracan_sto_overview_01a.jpg",
+      "video": ""
+    },
+    {
+      "id": 15,
+      "category": "Cars",
+      "name": "Urus",
+      "description": "The soul of a super sports car and the functionality of an SUV: Lamborghini Urus is the first Super Sport Utility Vehicle in the world. With extreme proportions, breathtaking design, extraordinary driving dynamics and heart-pounding performance, Urus represents freedom in its quintessential state. You can experience any road, from track to the sand, ice, gravel or rocks, thus unlocking any road. You can explore any new terrain, thus expressing yourself. ",
+      "price": 251000,
+      "color": "Yellow",
+      "madeIn": "Italy",
+      "img1": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/urus/2021/03_16/urus_overview.jpg",
+      "video": ""
+    },
+    {
+      "id": 16,
+      "category": "Cars",
+      "name": "Sian FKP 37",
+      "description": "The Sián FKP 37 is the first super sports car powered by a V12 engine and hybrid technology based on supercapacitors. Its powerful V12 engine, coupled with electric boost, creates an unrivaled gem of engineering and technology. Sián—lightning in Bolognese—is a name that captures the car’s true character, foremost its speed, which exceeds 220 mph (350 km/h).",
+      "price": 400000,
+      "color": "green",
+      "madeIn": "Italy",
+      "img1": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/few_off/sian-fkp-37/overview/SIAN_FKP_37_01-overview2.jpg",
+      "video": ""
+    },
+    {
+      "id": 17,
+      "category": "Polo",
+      "name": "Lamborghini t-shirt",
+      "description": "MAN T-SHIRT|MAN",
+      "price": 100,
+      "color": "Black",
+      "madeIn": "Italy",
+      "img1": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/3/B3XWB7I530431899_01.jpg",
+      "img2": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/3/B3XWB7I530431899_02.jpg",
+      "img3": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/3/B3XWB7I530431899_03.jpg"
+      
+    },
+    {
+      "id": 18,
+      "category": "Polo",
+      "name": "Lamborghini t-shirt",
+      "description": "MAN T-SHIRT|MAN",
+      "price": 100,
+      "color": "Black",
+      "madeIn": "Italy",
+      "img1": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/3/B3XWB7I530431899_01.jpg",
+      "img2": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/3/B3XWB7I530431899_02.jpg",
+      "img3": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/3/B3XWB7I530431899_03.jpg"
+    },
+    {
+      "id": 19,
+      "category": "Polo",
+      "name": "Lamborghini t-shirt",
+      "description": "MAN T-SHIRT|MAN",
+      "price": 100,
+      "color": "Black",
+      "madeIn": "Italy",
+      "img1": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/3/B3XWB7I530431899_01.jpg",
+      "img2": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/3/B3XWB7I530431899_02.jpg",
+      "img3": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/3/B3XWB7I530431899_03.jpg"
+    },
+    {
+      "id": 20,
+      "category": "Polo",
+      "name": "Lamborghini t-shirt",
+      "description": "MAN T-SHIRT|MAN",
+      "price": 100,
+      "color": "Black",
+      "madeIn": "Italy",
+      "img1": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/3/B3XWB7I530431899_01.jpg",
+      "img2": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/3/B3XWB7I530431899_02.jpg",
+      "img3": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/3/B3XWB7I530431899_03.jpg"
+    },
+    {
+      "id": 21,
+      "category": "Polo",
+      "name": "Lamborghini t-shirt",
+      "description": "MAN T-SHIRT|MAN",
+      "price": 100,
+      "color": "Black",
+      "madeIn": "Italy",
+      "img1": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/3/B3XWB7I530431899_01.jpg",
+      "img2": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/3/B3XWB7I530431899_02.jpg",
+      "img3": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/3/B3XWB7I530431899_03.jpg"
+    },
+    {
+      "id": 22,
+      "category": "Model",
+      "name": "MAN LIGHT SWEATER|MAN",
+      "description": "MAN LIGHT SWEATER|MAN",
+      "price": 200,
+      "color": "White",
+      "madeIn": "Italy",
+      "img1": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/7/B7XWB7A130435005_01.jpg",
+      "img2": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/7/B7XWB7A130435005_02.jpg",
+      "img3": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/7/B7XWB7A130435005_03.jpg"
+    },
+    {
+      "id": 23,
+      "category": "Model",
+      "name": "MAN LIGHT SWEATER|MAN",
+      "description": "MAN LIGHT SWEATER|MAN",
+      "price": 200,
+      "color": "White",
+      "madeIn": "Italy",
+      "img1": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/7/B7XWB7A130435005_01.jpg",
+      "img2": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/7/B7XWB7A130435005_02.jpg",
+      "img3": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/7/B7XWB7A130435005_03.jpg"
+    },
+    {
+      "id": 24,
+      "category": "Model",
+      "name": "MAN LIGHT SWEATER|MAN",
+      "description": "MAN LIGHT SWEATER|MAN",
+      "price": 200,
+      "color": "White",
+      "madeIn": "Italy",
+      "img1": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/7/B7XWB7A130435005_01.jpg",
+      "img2": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/7/B7XWB7A130435005_02.jpg",
+      "img3": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/7/B7XWB7A130435005_03.jpg"
+    },
+    {
+      "id": 25,
+      "category": "Model",
+      "name": "MAN LIGHT SWEATER|MAN",
+      "description": "MAN LIGHT SWEATER|MAN",
+      "price": 200,
+      "color": "White",
+      "madeIn": "Italy",
+      "img1": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/7/B7XWB7A130435005_01.jpg",
+      "img2": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/7/B7XWB7A130435005_02.jpg",
+      "img3": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/7/B7XWB7A130435005_03.jpg"
+    },
+    {
+      "id": 26,
+      "category": "Model",
+      "name": "MAN LIGHT SWEATER|MAN",
+      "description": "MAN LIGHT SWEATER|MAN",
+      "price": 200,
+      "color": "White",
+      "madeIn": "Italy",
+      "img1": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/7/B7XWB7A130435005_01.jpg",
+      "img2": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/7/B7XWB7A130435005_02.jpg",
+      "img3": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media//catalog/product/B/7/B7XWB7A130435005_03.jpg"
+    }
+    
+
+  ],
+  "users": [
+    {
+      "email": "jskakov1@gmail.com",
+      "password": "116343",
+      "isAdmin": true,
+      "id": "Pvf3FtW8L4c8rfKie0Yz9ZOSAMp2"
+    }
+   
+    
+  ]
+  
+}
